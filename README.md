@@ -1,3 +1,4 @@
+<!-- Checked by Kunal S C -->
 # Reel Shelf
 
 A Streamlit movie collection manager backed by SQLite. Add films, browse the collection, track ratings, identify the highest-rated film, and compare genres.

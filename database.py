@@ -1,3 +1,4 @@
+# Checked by Kunal S C
 from pathlib import Path
 import sqlite3
 from typing import Any
